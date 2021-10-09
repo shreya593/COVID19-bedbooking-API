@@ -1,6 +1,6 @@
 # COVID19-bedbooking-API
 
-I created thid API using Flask, MongoDB(for database), Python(code), 
+I created this API using Flask, MongoDB(for database), Python(code), 
 Here i have shared a JSON file which  contains Bed List (patient_critical_level,pincode,hospital,timeslot) and a app.py 
 file which contains codes for Booking of Bed, Booking rescheduling, Cancel booking.
 
