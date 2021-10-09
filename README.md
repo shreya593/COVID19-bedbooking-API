@@ -15,3 +15,9 @@ file which contains codes for Booking of Bed, Booking rescheduling, Cancel booki
 
 ![Screenshot (364)](https://user-images.githubusercontent.com/52618132/136654646-6dec25b9-a6d2-4819-a600-3bf0e301d4ea.png)
 
+![Screenshot (366)](https://user-images.githubusercontent.com/52618132/136654794-bb56ceef-1cb1-4857-ac83-a381d09b174e.png)
+
+![Screenshot (367)](https://user-images.githubusercontent.com/52618132/136654796-0fb08199-d626-47db-a157-8a15211bde03.png)
+
+![Screenshot (368)](https://user-images.githubusercontent.com/52618132/136654797-6b710bd6-0095-4acc-97ee-a9d30da35d6d.png)
+
