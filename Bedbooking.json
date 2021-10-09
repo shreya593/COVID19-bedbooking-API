@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61612bc3b144ea77545c2817"
+  },
+  "patient_critical_level": "Normal",
+  "pincode": 212011,
+  "hospital": "BHU",
+  "timeslot": 2
+},{
+  "_id": {
+    "$oid": "61612bc3b144ea77545c2818"
+  },
+  "patient_critical_level": "Critical",
+  "pincode": 230011,
+  "hospital": "Trauma Center",
+  "timeslot": 3
+},{
+  "_id": {
+    "$oid": "61612bc3b144ea77545c2819"
+  },
+  "patient_critical_level": "Normal",
+  "pincode": 220044,
+  "hospital": "Apollo",
+  "timeslot": 4
+},{
+  "_id": {
+    "$oid": "61612bc3b144ea77545c281a"
+  },
+  "patient_critical_level": "Normal",
+  "pincode": 331100,
+  "hospital": "Maxwell",
+  "timeslot": 6
+}]
