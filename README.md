@@ -11,3 +11,7 @@ file which contains codes for Booking of Bed, Booking rescheduling, Cancel booki
 -it is the ID of an element that is to be updated : 61612bc3b144ea77545c281a
 -DELETE Url to Cancel a booking an element : http://localhost:5000/Cancelbooking/61614e67f84e1972569b2cc2
 -it is the ID of an element that is to be deleted : 61614e67f84e1972569b2cc2
+
+
+![Screenshot (364)](https://user-images.githubusercontent.com/52618132/136654646-6dec25b9-a6d2-4819-a600-3bf0e301d4ea.png)
+
